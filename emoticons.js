@@ -1,4 +1,5 @@
 ﻿//<![CDATA[
+var copyright='Emoticons & Multimedia for Thread Comment by http://duypham.info';
 var smileys=[
 {'text':':))','img':'http://lh4.ggpht.com/_u7a1IFxc4WI/TM-vt_XVZKI/AAAAAAAAATI/Q35_W0anT6A/21.gif'},
 {'text':':)','img':'http://lh6.ggpht.com/_u7a1IFxc4WI/TM-voiNIw2I/AAAAAAAAASw/aav2hwqeG0c/1.gif'},
