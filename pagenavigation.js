@@ -3,8 +3,8 @@
     var numPages=4;
     var firstText ='Đầu';
     var lastText ='Cuối';
-    var prevText ='<i class="fa fa-chevron-left"></i>';
-    var nextText ='<i class="fa fa-chevron-right"></i>';
+    var prevText ='<i class="fa fa-angle-left" style=" vertical-align: bottom; font-size: 22px; "></i>';
+    var nextText ='<i class="fa fa-angle-right" style=" vertical-align: bottom; font-size: 22px; "></i>';
     var urlactivepage=location.href;
     var home_page="/";
   /*]]>*/
