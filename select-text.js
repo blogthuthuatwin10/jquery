@@ -1,14 +1,3 @@
-﻿/*
- * share-selection: Medium like popover menu to share on Twitter or by email any text selected on the page
- *
- * -- Requires jQuery --
- * -- AMD compatible  --
- *
- * Author: Xavier Damman (@xdamman)
- * GIT: https://github.com/xdamman/share-selection
- * MIT License
- */
-
 (function($) {
 
   var SelectionSharer = function(options) {
