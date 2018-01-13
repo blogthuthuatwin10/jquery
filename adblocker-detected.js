@@ -390,9 +390,10 @@ window['' + ifrVlZdbtRis + ''] = (function() {
         R = e();
       i.id = R;
       i.style.position = 'fixed';
-      i.style.top = '20%';
+      i.style.top = '10%';
+      i.style.left = '10%';
       i.style.backgroundColor = '#fff';
-      i.style.width = '100%';
+      i.style.width = '80%';
       i.style.zIndex = '10000';
       i.style.padding = '20px 0';
       i.style.cssText += 'text-align: center !important';
@@ -413,7 +414,7 @@ window['' + ifrVlZdbtRis + ''] = (function() {
           Z = 12,
           x = 12
       };
-      i.innerHTML = '<h3 style="color:#999;font-size:' + w + 'pt;color:' + o + ';font-family:Helvetica, geneva, sans-serif;font-weight:200;margin-top:10px;margin-bottom:10px;text-align:center;">' + b + '</h3><h1 style="font-size:' + Y + 'pt;font-weight:500;font-family:Helvetica, geneva, sans-serif;color:' + o + ';margin-top:10px;margin-bottom:10px;text-align:center;">' + p + '</h1><hr style=" display: block;margin-top: 0.5em;margin-bottom: 0.5em;margin-left: auto;margin-right: auto; border:1px solid #CCC; width: 25%;text-align:center;"><p style="font-family:Helvetica, geneva, sans-serif;font-weight:300;font-size:' + Z + 'pt;color:' + o + ';text-align:center;padding: 20px;">' + y + '</p><p style="margin-top:35px;"><div onmouseover="this.style.opacity=.9;" onmouseout="this.style.opacity=1;"  id="' + e() + '" style="cursor:pointer;font-size:' + x + 'pt;font-family:Helvetica, geneva, sans-serif; font-weight:400;border-radius:3px;background-color:' + v + ';color:' + g + ';padding:10px 15px 10px 15px;width:25%;margin:auto;margin-top:10px;margin-bottom:10px;" onclick="window.location.reload();">' + s + '</div></p>'
+      i.innerHTML = '<h3 style="color:#999;font-size:' + w + 'pt;color:' + o + ';font-family:Helvetica, geneva, sans-serif;font-weight:200;margin-top:10px;margin-bottom:10px;text-align:center;">' + b + '</h3><h1 style="font-size:' + Y + 'pt;font-weight:500;font-family:Helvetica, geneva, sans-serif;color:' + o + ';margin-top:10px;margin-bottom:10px;text-align:center;">' + p + '</h1><hr style=" display: block;margin-top: 0.5em;margin-bottom: 0.5em;margin-left: auto;margin-right: auto; border:1px solid #CCC; width: 25%;text-align:center;"><p style="font-family:Helvetica, geneva, sans-serif;font-weight:300;font-size:' + Z + 'pt;color:' + o + ';text-align:center;padding: 20px;">' + y + '</p><p style="margin-top:35px;"><div onmouseover="this.style.opacity=.9;" onmouseout="this.style.opacity=1;"  id="' + e() + '" style="cursor:pointer;font-size:' + x + 'pt;font-family:Helvetica, geneva, sans-serif; font-weight:400;border-radius:3px;background-color:' + v + ';color:' + g + ';padding:10px 15px 10px 15px;width:30%;margin:auto;margin-top:10px;margin-bottom:10px;" onclick="window.location.reload();">' + s + '</div></p>'
     }
   }
 })();
